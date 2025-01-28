@@ -1,0 +1,1 @@
+This repository contains a Perl script demonstrating an issue with the `last` statement inside a `foreach` loop. The script iterates through an array of numbers and prints each number, but the `last` statement terminates the loop early when it encounters the number 5. The solution provides a way to handle the premature termination effectively.
